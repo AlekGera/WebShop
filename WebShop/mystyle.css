@@ -1,0 +1,13 @@
+﻿body {
+}
+.glavno{
+    width:100%;
+}
+.glavnolevo{
+    width:40%;
+    float:left;
+}
+.glavnodesno {
+    width: 40%;
+    float: right;
+}
